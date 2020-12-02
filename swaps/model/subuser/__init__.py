@@ -1,0 +1,5 @@
+from swaps.model.subuser.subuser_creation import SubuserCreation
+from swaps.model.subuser.subuser_transferability import SubuserTransferability
+from swaps.model.subuser.subuser_apikey_generation import SubuserApikeyGeneration
+from swaps.model.subuser.user_apikey_info import UserApikeyInfo
+from swaps.model.subuser.subuser_apikey_modification import SubuserApikeyModification
